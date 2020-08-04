@@ -1,0 +1,1 @@
+This repository is for the use of learning how to make your sides adapt to different screen widths.
